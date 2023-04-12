@@ -1,1 +1,2 @@
-# cs3244
+# CS3244 - Machine Learning
+Natural Language Processing - Sentiment Analysis
